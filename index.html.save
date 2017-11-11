@@ -38,18 +38,12 @@ ctx.moveTo(120,125);
 ctx.lineTo(120,150);
 ctx.stroke();
 /*line*/
-ctx.moveTo(50,150);
-ctx.lineTo(120,150);
-ctx.stroke();
 
-/*cricle*/
-ctx.beginPath();
-ctx.arc(200, 85, 75, 0, 2 * Math.PI);
-ctx.stroke();
 
-/*text*/
-ctx.font= "30px Arial";
-ctx.strokeText("D",300,100);
+
+
+
+
 
 
 
